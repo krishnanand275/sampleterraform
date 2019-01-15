@@ -1,6 +1,6 @@
 variable "var1" {
   type    = "string"
-  default = "value"
+  default = "{{ var1 }}"
 }
 
 variable "var2" {
