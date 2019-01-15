@@ -5,3 +5,7 @@ output "value1" {
 output "value2" {
   value = "${var.var2}"
 }
+
+output "value3" {
+  value = "${var.var3}"
+}

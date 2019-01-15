@@ -7,3 +7,5 @@ variable "var2" {
   type    = "string"
   default = "value"
 }
+
+variable "var3" {}
